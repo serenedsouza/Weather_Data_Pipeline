@@ -1,6 +1,7 @@
 # Weather_Data_Pipeline
 
 Weather Data Pipeline 
+
 An end-to-end data engineering project that collects real-time weather data using OpenWeatherMap API, stores it in a MySQL database, and visualizes trends like temperature, humidity, and pressure across cities using a Streamlit dashboard.
 
 ## 📁 Project Structure
